@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(3, 0, 12);
+  }
+  
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  h1 {
+    color: white;
+    text-align: center;
+  }
+  p {
+    text-align: center;
+    color: rgb(241, 239, 239);
+  } 
+  h1 {
+    color: white;
+    text-align: center;
+  }
+  p {
+    text-align: center;
+    color: rgb(241, 239, 239);
+  } 
+  a:link, a:visited {
+    background-color: #26084e;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: rgb(16, 0, 36);
+  }
